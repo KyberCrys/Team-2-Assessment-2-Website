@@ -10,7 +10,7 @@
 
 
 ### Method Selection + Planning
-
+![[image_2025-10-23_140244844.png]]
 
 ### Risk Assessment
 
