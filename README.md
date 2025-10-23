@@ -21,7 +21,7 @@
 
 ## Github Repository
 
-https://github.com/hanap05/ENG1-Team-6-Game
+[[https://github.com/hanap05/ENG1-Team-6-Game]]
 
 ## Executable
 
