@@ -2,15 +2,21 @@
 
 ## Documentation
 
+
 ### Requirements
+
 
 ### Architecture
 
+
 ### Method Selection + Planning
+
 
 ### Risk Assessment
 
+
 ### Implementation
+
 
 ## Github Repository
 
