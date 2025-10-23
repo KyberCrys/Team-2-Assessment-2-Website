@@ -1,4 +1,4 @@
-# Eng1 Cohort 3 Group 6
+# ENG1 Cohort 3 Group 6
 
 ## Documentation
 
