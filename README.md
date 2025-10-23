@@ -10,7 +10,8 @@
 
 
 ### Method Selection + Planning
-![[image_2025-10-23_140244844.png]]
+<img width="703" height="336" alt="image" src="https://github.com/user-attachments/assets/7ae28110-0919-4a64-807a-7593293826ba" />
+
 
 ### Risk Assessment
 
