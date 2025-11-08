@@ -22,5 +22,5 @@
 
 https://github.com/hanap05/ENG1-Team-6-Game
 
-## Executable
+## Executable JAR
 
