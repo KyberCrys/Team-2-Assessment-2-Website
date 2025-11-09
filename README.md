@@ -50,6 +50,9 @@
 <p>
 <img align="center" width="703" height="336" alt="image" src="https://github.com/user-attachments/assets/7ae28110-0919-4a64-807a-7593293826ba" />
 
+<br />
+<br />
+
 #### Working Plan:
 
 <img align="center" width="1627" height="523" alt="image" src="https://github.com/user-attachments/assets/4940d4c2-355b-4195-98c5-bada6c530a39" />
