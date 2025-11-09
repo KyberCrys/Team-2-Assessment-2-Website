@@ -20,7 +20,7 @@
 
 ## Github Repository
 
-[https://github.com/hanap05/ENG1-Team-6-Game]
+https://github.com/hanap05/ENG1-Team-6-Game <a href="[https://web.site](https://github.com/hanap05/ENG1-Team-6-Game)">github.com/hanap05/ENG1-Team-6-Game</a>
 
 ## Executable JAR
 
