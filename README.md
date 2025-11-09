@@ -22,12 +22,13 @@
 
 ### Requirements
 #### Deliverable:
-
+<a href="https://drive.google.com/file/d/1J1F_THDsjMRu6NLjn-p8qB1K-CXb-HTg/view?usp=drive_link">Req1.pdf</a>
 
 <a href="https://docs.google.com/document/d/1PW_X5c8_erpyhJr1A2UBc4y99jOvTr5_0AJ8lF1-oBU/edit?tab=t.0#heading=h.ver9vukz1rzm">Client Interview</a>
 
 ### Architecture
-#### Deliverable:
+#### Deliverable: 
+<a href="https://drive.google.com/file/d/1-CjNoaZG2rZrUCLp1HcjlMXYrok3ZUIq/view?usp=drive_link">Arch1.pdf</a>
 
 #### Previous Iterations:
 <img width="926" height="711" alt="image" src="https://github.com/user-attachments/assets/6fada868-1d1f-42c3-9eab-dce23af878bb" />
@@ -39,7 +40,7 @@
 
 ### Method Selection + Planning
 #### Deliverable:
-
+<a href="https://drive.google.com/file/d/1XtBebvLFB_HENxSJxRJyMiAXgJ5LjP5s/view?usp=drive_link">Plan1.pdf</a>
 
   
 #### Initial Plan:
@@ -54,12 +55,12 @@
 
 ### Risk Assessment
 #### Deliverable:
-
+<a href="https://drive.google.com/file/d/1WtmHPpqE2n4HbktvH8ebCbaR-J9kDtzB/view?usp=drive_link">Risk1.pdf</a>
 
 
 ### Implementation
 #### Deliverable:
-
+<a href="https://drive.google.com/file/d/1ys1byajmt1ymiKAqb6MnPiNXW8G--Fy-/view?usp=drive_link">Impl1.pdf</a>
 
 
 ## Github Repository
