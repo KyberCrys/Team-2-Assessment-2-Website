@@ -4,17 +4,19 @@
 
 ### Requirements
 
-
 ### Architecture
 
-
 ### Method Selection + Planning
+Deliverable:
 
 Initial Plan:
-<img width="703" height="336" alt="image" src="https://github.com/user-attachments/assets/7ae28110-0919-4a64-807a-7593293826ba" />
-
+<p>
+<img align="center" width="703" height="336" alt="image" src="https://github.com/user-attachments/assets/7ae28110-0919-4a64-807a-7593293826ba" />
+</p>
 Working Plan:
-<img width="1627" height="523" alt="image" src="https://github.com/user-attachments/assets/4940d4c2-355b-4195-98c5-bada6c530a39" />
+<p>
+<img align="center" width="1627" height="523" alt="image" src="https://github.com/user-attachments/assets/4940d4c2-355b-4195-98c5-bada6c530a39" />
+</p>
 
 ### Risk Assessment
 
