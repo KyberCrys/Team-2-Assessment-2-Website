@@ -1,4 +1,3 @@
-theme: jekyll-theme-slate
 # ENG1 Cohort 3 Group 6
 
 ## Documentation
