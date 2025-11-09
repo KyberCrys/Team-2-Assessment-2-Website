@@ -24,6 +24,8 @@
 #### Deliverable:
 <a href="https://drive.google.com/file/d/1J1F_THDsjMRu6NLjn-p8qB1K-CXb-HTg/view?usp=drive_link">Req1.pdf</a>
 
+#### Other Files:
+
 <a href="https://docs.google.com/document/d/1PW_X5c8_erpyhJr1A2UBc4y99jOvTr5_0AJ8lF1-oBU/edit?tab=t.0#heading=h.ver9vukz1rzm">Client Interview</a>
 
 ### Architecture
