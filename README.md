@@ -2,19 +2,19 @@
 ## Contents
 <p>
   
-- <a href="https://esiole-aurora.github.io/#requirements">Requirements</a>
+- <a href="https://esiole-aurora.github.io/#requirements">Requirements</a> <br />
   
-- <a href="https://esiole-aurora.github.io/#architecture">Architecture</a>
+- <a href="https://esiole-aurora.github.io/#architecture">Architecture</a> <br />
 
-- <a href="https://esiole-aurora.github.io/#method-selection--planning">Method Selection + Planning</a>
+- <a href="https://esiole-aurora.github.io/#method-selection--planning">Method Selection + Planning</a> <br />
 
-- <a href="https://esiole-aurora.github.io/#risk-assessment">Risk Assessment</a>
+- <a href="https://esiole-aurora.github.io/#risk-assessment">Risk Assessment</a> <br />
 
-- <a href="https://esiole-aurora.github.io/#implementation">Implementation</a>
+- <a href="https://esiole-aurora.github.io/#implementation">Implementation</a> <br />
 
-- <a href="https://esiole-aurora.github.io/#github-repository">Github Repository</a>
+- <a href="https://esiole-aurora.github.io/#github-repository">Github Repository</a> <br />
 
-- <a href="https://esiole-aurora.github.io/#executable-jar">Executable JAR</a>
+- <a href="https://esiole-aurora.github.io/#executable-jar">Executable JAR</a> <br />
 </p>
 
 
