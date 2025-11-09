@@ -44,7 +44,6 @@
 #### Deliverable:
 <a href="https://drive.google.com/file/d/1XtBebvLFB_HENxSJxRJyMiAXgJ5LjP5s/view?usp=drive_link">Plan1.pdf</a>
 
-  
 #### Initial Plan:
 <a href="https://docs.google.com/document/d/1CiLiLa8Z827Mq-DgH0Q8jv8Wn1GDovbXgPi0u2z3JoU/edit?tab=t.0#heading=h.f63lrhvh1wkv">To-Do List</a>
 <p>
@@ -54,7 +53,6 @@
 <br />
 
 #### Working Plan:
-
 <img align="center" width="1627" height="523" alt="image" src="https://github.com/user-attachments/assets/4940d4c2-355b-4195-98c5-bada6c530a39" />
 </p>
 
