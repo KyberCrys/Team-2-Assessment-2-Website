@@ -3,9 +3,15 @@
 ## Documentation
 
 ### Requirements
+Deliverable:
+
+
 <a href="https://docs.google.com/document/d/1PW_X5c8_erpyhJr1A2UBc4y99jOvTr5_0AJ8lF1-oBU/edit?tab=t.0#heading=h.ver9vukz1rzm">Client Interview</a>
 
 ### Architecture
+Deliverable:
+
+
 
 ### Method Selection + Planning
 Deliverable:
@@ -23,9 +29,13 @@ Working Plan:
 </p>
 
 ### Risk Assessment
+Deliverable:
+
 
 
 ### Implementation
+Deliverable:
+
 
 
 ## Github Repository
