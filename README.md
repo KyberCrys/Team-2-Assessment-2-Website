@@ -51,8 +51,9 @@
 
 <br />
 <br />
-
+</p>
 #### Working Plan:
+<p>
 <img align="center" width="1627" height="523" alt="image" src="https://github.com/user-attachments/assets/4940d4c2-355b-4195-98c5-bada6c530a39" />
 </p>
 
