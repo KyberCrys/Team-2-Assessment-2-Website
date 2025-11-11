@@ -16,7 +16,6 @@
 
 - <a href="https://esiole-aurora.github.io/#executable-jar">Executable JAR</a> <br />
 
-- <a href="https://esiole-aurora.github.io/#google-drive">Google Drive</a> <br />
 </p>
 
 
@@ -76,6 +75,3 @@
 ## Executable JAR
 
 <a href="https://drive.google.com/file/d/1QMBXNiztB0TcUS6n2Vf8zyf3TzBQhuqu/view?usp=drive_link">eng1-maze-game.jar</a>
-
-## Google Drive
-<a href="https://drive.google.com/drive/u/0/folders/1i6r96fl1IZ4NdzUq33oifIspLvy7vvBL">Eng1 Cohort 3 Team 6</a>
