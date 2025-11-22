@@ -1,0 +1,8 @@
+@startuml
+Player -> Main: Player moves into Hole boundary
+Main -> Main: Main checks collisions
+Main -> Player: Main tells Player to add power up, passing Hole as parameter
+Player -> Hole: Player requests parameterised PowerUp's name
+Hole -> Player: Returns name
+Player -> Player: Checks name then adds it to PowerUpTimers arrayList with Hole's parameters
+@enduml

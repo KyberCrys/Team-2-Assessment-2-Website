@@ -1,0 +1,8 @@
+@startuml
+Player -> Main: Player moves into Charge boundary
+Main -> Main: Main checks collisions
+Main -> Player: Main tells Player to add power up, passing Charge as parameter
+Player -> Hole: Player requests parameterised PowerUp's name
+Hole -> Player: Returns name
+Player -> Player: Checks name then adds it to PowerUpTimers arrayList, with Charge's parameters
+@enduml
