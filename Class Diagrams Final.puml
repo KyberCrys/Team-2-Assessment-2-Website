@@ -1,0 +1,140 @@
+@startuml
+class Charge
+
+class Chest
+
+class Constants
+Constants : float PPM
+Constants : float MPP
+Constants : int WORLD_PIXEL_WIDTH
+Constants : int WORLD_PIXEL_HEIGHT
+Constants : int WORLD_WIDTH
+Constants : int WORLD_HEIGHT
+
+class CustomTimer
+CustomTimer : float totalTime
+CustomTimer : float currentTime
+CustomTimer : boolean paused
+CustomTimer : boolean finished
+
+CustomTimer : elapseTime()
+CustomTimer : getFormattedTime()
+CustomTimer : pause()
+CustomTimer : start()
+CustomTimer : stop()
+CustomTimer : reset()
+
+class Hole
+
+class InvertControls
+
+class Key
+Key : Rectangle Hitbox
+Key : Vector2 position
+Key : float width
+Key : float height
+
+class LeaderboardManager
+LeaderboardManager : File leaderboard
+
+LeaderboardManager : writeEntry()
+LeaderboardManager : readEntries()
+LeaderboardManager : reorder()
+
+
+'Used to hold array of where all doors are and creates them out of LockedDoorNodes'
+class LockedDoor
+LockedDoor : ArrayList doorNodes
+LockedDoor : Vector2 position
+LockedDoor : String orientation
+LockedDoor : int length
+
+LockedDoor : initialiseDoor()
+
+
+'Used to make up door'
+class LockedDoorNode
+LockedDoorNode : Rectangle Hitbox
+LockedDoorNode : Texture doorTexture
+LockedDoorNode : Vector2 position
+
+class Main
+Main : ArrayList powerUps
+Main : create()
+Main : resize()
+Main : render()
+Main : collision()
+Main : resetGame()
+
+class Player
+Player : float speed
+Player : String direction
+Player : boolean moving
+Player : ArrayList powerupTimers
+Player : ArrayList : animations
+Player : boolean frozen
+Player : boolean inverted
+
+Player : playerMovement()
+Player : addPowerUp()
+Player : updateTimers()
+
+Abstract PowerUp
+PowerUp : Texture powerUpTexture
+PowerUp : String name
+PowerUp : String description
+PowerUp : String type
+PowerUp : float duration
+
+class PowerUpTimer
+PowerUpTimer : String name
+PowerUpTimer : description
+PowerUpTimer : animation idle
+
+class ScoreDivider
+
+enum Screen
+Screen : START
+Screen : RUNNING
+Screen : GAME_OVER
+Screen : PAUSE
+Screen : WIN
+
+
+
+
+class Sleep
+
+class SlowDown
+
+class SpeedUp
+
+class TimeBoost
+
+
+
+
+class WarpPanel
+WarpPanel : Texture texture
+WarpPanel : Vector2 position
+WarpPanel : boolean visible
+
+WarpPanel : setVisibility()
+
+class WinCondition
+WinCondition : Rectangle Hitbox
+WinCondition : Vector2 position
+WinCondition : float width
+WinCondition : float height
+
+PowerUp <-- SpeedUp
+PowerUp <-- Hole
+PowerUp <-- InvertControls
+PowerUp <-- Charge
+PowerUp <-- Chest
+PowerUp <-- ScoreDivider
+PowerUp <-- Sleep
+PowerUp <-- SlowDown
+PowerUp <-- TimeBoost
+CustomTimer <-- PowerUpTimer
+@enduml
